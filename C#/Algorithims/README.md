@@ -1,5 +1,5 @@
-# --Hacktoberfest_2022
-Repository for Java, C++ and web Contribution
+# Hacktoberfest_2022
+Repository for data structure, C++ and web Contribution
 
 
 // Java program for implementation of Insertion Sort
